@@ -90,9 +90,9 @@ keyword_df
 
 ## 4. explore data
 Bubble chart to evaluate the keyword performance 
-x-axis: CTR
-y-axis: conversion rate
-bubble size by the profits
+x-axis: CTR <br>
+y-axis: conversion rate <br>
+bubble size by the profits <br>
 bid cost by colors
 
 <img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%203.png">
