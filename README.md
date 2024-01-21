@@ -87,7 +87,7 @@ keyword_df
 - calculate different KPIs (CTR, Conversion rate, Revenue, Profits)
 
 ## 4. explore data
-<img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%203.png" width="1100" height="450">
+<img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%203.png">
 
 ## 5. modeling 
 Apply data wrangling to filter the keywords which have:
