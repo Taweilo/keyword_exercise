@@ -114,5 +114,5 @@ utilize the same process but apply to different dataset:
 <img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%205.jpg" >
 3. upload dataset
 <img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%206.jpg" >
-5. download csv (check download file "keywords_selected.csv")
+4. download csv (check download file "keywords_selected.csv")
 
