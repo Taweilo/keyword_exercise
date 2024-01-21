@@ -82,6 +82,7 @@ keyword_df
 
 - Statistics of the dataset 
 <img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%202.jpg">
+
 ## 3. prepare data
 - aggregation via pivot table
 - calculate different KPIs (CTR, Conversion rate, Revenue, Profits)
