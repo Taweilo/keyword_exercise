@@ -78,16 +78,16 @@ pd.set_option('display.max_rows', None)
 keyword_df
 ```
 - first 5 columns of the simulated dataset (total 10000 rows * 6 cols )
-<img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%201.jpg" width="1100" height="450">
+<img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%201.jpg" >
 
 - Statistics of the dataset 
-<img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%202.jpg" width="1100" height="450">
+<img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%202.jpg">
 ## 3. prepare data
 - aggregation via pivot table
 - calculate different KPIs (CTR, Conversion rate, Revenue, Profits)
 
 ## 4. explore data
-<img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%203.jpg" width="1100" height="450">
+<img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%203.png" width="1100" height="450">
 
 ## 5. modeling 
 Apply data wrangling to filter the keywords which have:
@@ -97,4 +97,4 @@ Apply data wrangling to filter the keywords which have:
 The conditions vary in different situations.
 
 ## 6. download CSV file
-<img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%204.jpg" width="1100" height="450">
+<img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%204.jpg" >
