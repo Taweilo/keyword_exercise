@@ -7,13 +7,14 @@
 4. explore data
 5. modeling
 6. download the CSV file as the end product
-7. repetitively running the notebook with different CSV file as automation
+7. repetitively running the notebook with different CSV files as automation
 
 ## 1. undersand business problem
-To easily handle the keyword selection via KPI, an automated process can deal with different CSV file utilizing the same rule to explore, evaluate, and select the keywrods. 
+To easily handle the keyword selection via KPI, an automated process can deal with different CSV files utilizing the same rule to explore, evaluate, and select the keywords. 
 
 ## 2. understand the data
-- The data is simulated by the following code: 
+- The dataset is simulated by the following code:
+  
 ```
 np.random.seed(42)
 
