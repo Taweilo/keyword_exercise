@@ -105,3 +105,8 @@ The conditions vary in different situations.
 
 ## 6. download CSV file
 <img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%204.jpg" >
+
+## 7. utilize colab to perform the automation 
+ustilize the same process but apply to different dataset
+<img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%205.jpg" >
+https://colab.research.google.com/drive/18NXtBCv1bqLExXcyl4vUvMksfnbdKmkw#scrollTo=9-m8yacl7yXO
