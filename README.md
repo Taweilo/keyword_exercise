@@ -10,7 +10,7 @@
 7. repetitively running the notebook with different CSV files as automation
 
 ## 1. undersand business problem
-To easily handle the keyword selection via KPI, an automated process can deal with different CSV files utilizing the same rule to explore, evaluate, and select the keywords. 
+To facilitate keyword selection based on key performance indicators (KPIs), an automated process can efficiently manage various CSV files using a consistent set of rules for exploration, evaluation, and keyword selection.
 
 ## 2. understand the data
 - The dataset is simulated by the following code:
