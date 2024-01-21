@@ -1,4 +1,5 @@
 # Keywords automation system 
+<img src="https://nghenghiep.vieclam24h.vn/wp-content/uploads/2023/05/keyword-la-gi-1.jpg" >
 
 ## content
 1. undersand business problem
