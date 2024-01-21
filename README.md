@@ -12,7 +12,7 @@ To easily handle the keyword selection via KPI, an automated process can deal wi
 ## 2. understand the data
 The data is simulated  
 
-'''
+```
 np.random.seed(42)
 
 keywords = [
@@ -37,6 +37,7 @@ keywords = [
     "college ruled notebook",
     "engineering notebook"
 ]
+```
 
 # Replicate keywords to have 100 rows
 keywords = np.random.choice(keywords, size=10000)
