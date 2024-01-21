@@ -37,6 +37,42 @@ keywords = [
     "college ruled notebook",
     "engineering notebook"
 ]
+
+# Replicate keywords to have 100 rows
+keywords = np.random.choice(keywords, size=100)
+
+# Simulate random values for views
+views = np.random.randint(1000, 5000, size=100)
+
+# Simulate unique bid values, CTR, and conversion rate for each keyword
+unique_bids = {keyword: len(keyword) + 1 for keyword in set(keywords)}
+ctr_dict = {keyword: np.random.uniform(0.05, 0.2) for keyword in set(keywords)}
+conversion_rate_dict = {keyword: np.random.uniform(0.05, 0.15) for keyword in set(keywords)}
+
+# Create lists for CTR and conversion rate based on keywords
+ctr = [ctr_dict[keyword] for keyword in keywords]
+conversion_rate = [conversion_rate_dict[keyword] for keyword in keywords]
+
+# Calculate clicks, conversions, total costs
+clicks = np.round(views * np.array(ctr), 0)
+conversions = np.round(clicks * np.array(conversion_rate))
+total_costs = np.array([unique_bids[keyword] for keyword in keywords]) * clicks
+
+# Create the DataFrame
+data = {
+    'keywords': keywords,
+    'bid': [unique_bids[keyword] for keyword in keywords],
+    'views': views,
+    'clicks': clicks,
+    'conversions': conversions,
+    'total costs': total_costs
+}
+
+keyword_df = pd.DataFrame(data)
+
+# Display the DataFrame
+pd.set_option('display.max_rows', None)
+keyword_df
 ```
 
 # Replicate keywords to have 100 rows
