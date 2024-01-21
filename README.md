@@ -88,6 +88,12 @@ keyword_df
 - calculate different KPIs (CTR, Conversion rate, Revenue, Profits)
 
 ## 4. explore data
+Bubble chart to evaluate the keyword performance 
+x-axis: CTR
+y-axis: conversion rate
+bubble size by the profits
+bid cost by colors
+
 <img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%203.png">
 
 ## 5. modeling 
