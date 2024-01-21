@@ -108,6 +108,11 @@ The conditions vary in different situations.
 <img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%204.jpg" >
 
 ## 7. utilize colab to perform the automation 
-utilize the same process but apply to different dataset
+utilize the same process but apply to different dataset:
+1. download dataset (https://github.com/Taweilo/keyword_exercise/blob/main/Keywords%20.csv)
+2. run colab (https://colab.research.google.com/drive/18NXtBCv1bqLExXcyl4vUvMksfnbdKmkw#scrollTo=9-m8yacl7yXO)
 <img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%205.jpg" >
-https://colab.research.google.com/drive/18NXtBCv1bqLExXcyl4vUvMksfnbdKmkw#scrollTo=9-m8yacl7yXO
+3. upload dataset
+<img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%206.jpg" >
+5. download csv (check download file "keywords_selected.csv")
+
