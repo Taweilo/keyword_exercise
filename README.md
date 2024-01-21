@@ -94,7 +94,7 @@ keyword_df
 Apply data wrangling to filter the keywords which have:
 1. profit > 0
 2. CTR > 10%
-3. conversion rate >5%
+3. conversion rate >5% <br>
 The conditions vary in different situations.
 
 ## 6. download CSV file
