@@ -88,7 +88,7 @@ keyword_df
 
 
 ## 5. modeling 
-Apply data wrangling to filter the keywords which are:
+Apply data wrangling to filter the keywords which have:
 1. profit > 0
 2. CTR > 10%
 3. conversion rate >5%
