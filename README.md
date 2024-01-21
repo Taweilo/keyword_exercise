@@ -9,7 +9,7 @@
 6. download the CSV file as the end product
 7. repetitively running the notebook with different CSV files as automation
 
-## 1. undersand business problem
+## 1. understand business problem
 To facilitate keyword selection based on key performance indicators (KPIs), an automated process can efficiently manage various CSV files using a consistent set of rules for exploration, evaluation, and keyword selection.
 
 ## 2. understand the data
@@ -107,6 +107,6 @@ The conditions vary in different situations.
 <img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%204.jpg" >
 
 ## 7. utilize colab to perform the automation 
-ustilize the same process but apply to different dataset
+utilize the same process but apply to different dataset
 <img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%205.jpg" >
 https://colab.research.google.com/drive/18NXtBCv1bqLExXcyl4vUvMksfnbdKmkw#scrollTo=9-m8yacl7yXO
