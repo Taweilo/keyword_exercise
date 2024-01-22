@@ -14,8 +14,9 @@
 ├── Image                                             <- image for Readme
 │
 ├── Keyword_simulation_notebooks.ipynb                <- code for automation
-├── Keywords.csv                                      <- simulated dataset
+├── Keywords.csv                                      <- simulated dataset/download and upload on the colab for automation
 ├── Keywords_Automation_Process.ipynb                 <- code for simulated dataset generation
+├── Keywords_selected.csv                             <- end product as CSV
 ├── README.md                                         <- read me
 ```
 
