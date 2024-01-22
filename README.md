@@ -11,10 +11,10 @@
 7. repetitively running the notebook with different CSV files as automation
    
 ```
-├── Image                       
+├── Image                                             <- image for Readme
 │
 ├── Keyword_simulation_notebooks.ipynb                <- code for automation
-├── Keywords .csv                                     <- simulated dataset
+├── Keywords.csv                                      <- simulated dataset
 ├── Keywords_Automation_Process.ipynb                 <- code for simulated dataset generation
 ├── README.md                                         <- read me
 ```
