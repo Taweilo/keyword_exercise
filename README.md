@@ -90,7 +90,7 @@ keyword_df
 ```
 - The total dataset includes 10000 records. 10 Unique keywords each has its unique bid price.
   
-- first 5 columns of the simulated dataset ( 6 cols )
+- first 5 columns of the simulated dataset ( total dataset 10000 rows * 6 cols )
 <img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%201.jpg" >
 
 - Statistics of the dataset 
