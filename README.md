@@ -88,7 +88,7 @@ keyword_df = pd.DataFrame(data)
 pd.set_option('display.max_rows', None)
 keyword_df
 ```
-- first 5 columns of the simulated dataset (total 10000 rows * 6 cols )
+- first 5 columns of the simulated dataset (total dataset incudes 10000 rows * 6 cols )
 <img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%201.jpg" >
 
 - Statistics of the dataset 
