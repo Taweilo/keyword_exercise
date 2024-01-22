@@ -118,9 +118,10 @@ The conditions vary in different situations.
 
 ## 6. Download CSV File
 Formatting and downloading the CSV file that includes the selected keyword 
+
 <img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%204.jpg" >
 
-## 7. Utilize colab to perform the automation 
+## 7. Utilize Colab to perform the automation 
 utilize the same process but apply it to different datasets:
 1. download the dataset (https://github.com/Taweilo/keyword_exercise/blob/main/Keywords%20.csv)
 2. run colab (https://colab.research.google.com/drive/18NXtBCv1bqLExXcyl4vUvMksfnbdKmkw#scrollTo=9-m8yacl7yXO)
