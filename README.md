@@ -24,7 +24,8 @@ To facilitate keyword selection based on key performance indicators (KPIs), an a
 
 ## 2. understand the data
 - The dataset is simulated by the following code:
-  
+  https://github.com/Taweilo/keyword_exercise/blob/main/Keyword_simulation_notebooks.ipynb
+
 ```
 np.random.seed(42)
 
@@ -50,7 +51,6 @@ keywords = [
     "college ruled notebook",
     "engineering notebook"
 ]
-https://github.com/Taweilo/keyword_exercise/blob/main/Keyword_simulation_notebooks.ipynb
 
 # Replicate keywords to have 100 rows
 keywords = np.random.choice(keywords, size=100)
