@@ -9,6 +9,15 @@
 5. modeling
 6. download the CSV file as the end product
 7. repetitively running the notebook with different CSV files as automation
+   
+```
+├── Image                       
+│
+├── Keyword_simulation_notebooks.ipynb                <- code for automation
+├── Keywords .csv                                     <- simulated dataset
+├── Keywords_Automation_Process.ipynb                 <- code for simulated dataset generation
+├── README.md                                         <- read me
+```
 
 ## 1. understand business problem
 To facilitate keyword selection based on key performance indicators (KPIs), an automated process can efficiently manage various CSV files using a consistent set of rules for exploration, evaluation, and keyword selection.
