@@ -1,14 +1,14 @@
 # Keywords automation system 
 <img src="https://nghenghiep.vieclam24h.vn/wp-content/uploads/2023/05/keyword-la-gi-1.jpg" >
 
-## content
-1. undersand business problem
-2. understand the data
-3. prepare data
-4. explore data
-5. modeling
-6. download the CSV file as the end product
-7. repetitively running the notebook with different CSV files as automation
+## Content
+1. Undersand Business Problem
+2. Understand Data
+3. Prepare Data
+4. Explore Data
+5. Modeling
+6. Download CSV file as End Product
+7. Repetitively Running Colab with Different CSVs for Automation
    
 ```
 ├── Image                                             <- image for Readme
@@ -19,7 +19,7 @@
 ├── README.md                                         <- read me
 ```
 
-## 1. understand business problem
+## 1. Understand Business Problem
 To facilitate keyword selection based on key performance indicators (KPIs), an automated process can efficiently manage various CSV files using a consistent set of rules for exploration, evaluation, and keyword selection.
 
 ## 2. understand the data
@@ -88,17 +88,19 @@ keyword_df = pd.DataFrame(data)
 pd.set_option('display.max_rows', None)
 keyword_df
 ```
-- first 5 columns of the simulated dataset (total dataset incudes 10000 rows * 6 cols )
+- The total dataset includes 10000 records. 10 Unique keywords each has its unique bid price.
+  
+- first 5 columns of the simulated dataset ( 6 cols )
 <img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%201.jpg" >
 
 - Statistics of the dataset 
 <img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%202.jpg">
 
-## 3. prepare data
+## 3. Prepare Data
 - aggregation via pivot table
 - calculate different KPIs (CTR, Conversion rate, Revenue, Profits)
 
-## 4. explore data
+## 4. Explore Data
 Bubble chart to evaluate the keyword performance 
 x-axis: CTR <br>
 y-axis: conversion rate <br>
@@ -107,17 +109,18 @@ bid cost by colors
 
 <img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%203.png">
 
-## 5. modeling 
+## 5. Modeling 
 Apply data wrangling to filter the keywords which have:
 1. profit > 0
 2. CTR > 10%
 3. conversion rate >5% <br>
 The conditions vary in different situations.
 
-## 6. download CSV file
+## 6. Download CSV File
+Formatting and downloading the CSV file that includes the selected keyword 
 <img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%204.jpg" >
 
-## 7. utilize colab to perform the automation 
+## 7. Utilize colab to perform the automation 
 utilize the same process but apply to different dataset:
 1. download dataset (https://github.com/Taweilo/keyword_exercise/blob/main/Keywords%20.csv)
 2. run colab (https://colab.research.google.com/drive/18NXtBCv1bqLExXcyl4vUvMksfnbdKmkw#scrollTo=9-m8yacl7yXO)
