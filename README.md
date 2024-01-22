@@ -1,4 +1,4 @@
-# Keywords automation system 
+# Keywords Automation System 
 <img src="https://nghenghiep.vieclam24h.vn/wp-content/uploads/2023/05/keyword-la-gi-1.jpg" >
 
 ## Content
@@ -22,7 +22,7 @@
 ## 1. Understand Business Problem
 To facilitate keyword selection based on key performance indicators (KPIs), an automated process can efficiently manage various CSV files using a consistent set of rules for exploration, evaluation, and keyword selection.
 
-## 2. understand the data
+## 2. Understand Data
 - The dataset is simulated by the following code:
   https://github.com/Taweilo/keyword_exercise/blob/main/Keyword_simulation_notebooks.ipynb
 
@@ -121,11 +121,11 @@ Formatting and downloading the CSV file that includes the selected keyword
 <img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%204.jpg" >
 
 ## 7. Utilize colab to perform the automation 
-utilize the same process but apply to different dataset:
-1. download dataset (https://github.com/Taweilo/keyword_exercise/blob/main/Keywords%20.csv)
+utilize the same process but apply it to different datasets:
+1. download the dataset (https://github.com/Taweilo/keyword_exercise/blob/main/Keywords%20.csv)
 2. run colab (https://colab.research.google.com/drive/18NXtBCv1bqLExXcyl4vUvMksfnbdKmkw#scrollTo=9-m8yacl7yXO)
 <img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%205.jpg" >
-3. upload dataset
+3. upload CSV / keyword dataset
 <img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%206.jpg" >
-4. download csv (check download file "keywords_selected.csv")
+4. download CSV (check download file "keywords_selected.csv")
 
