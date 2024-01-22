@@ -110,7 +110,7 @@ bid cost by colors
 <img src="https://github.com/Taweilo/keyword_exercise/blob/main/Image/image%203.png">
 
 ## 5. Modeling 
-Apply data wrangling to filter the keywords which have:
+Apply data wrangling to filter the keywords that have:
 1. profit > 0
 2. CTR > 10%
 3. conversion rate >5% <br>
